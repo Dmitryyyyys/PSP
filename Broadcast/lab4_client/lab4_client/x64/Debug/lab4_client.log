@@ -1,0 +1,4 @@
+﻿  lab4_client.cpp
+C:\Users\37529\Desktop\labs 3k 1s\ПСП\broadcast\lab4_client\lab4_client\lab4_client.cpp(102,47): warning C4267: аргумент: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\37529\Desktop\labs 3k 1s\ПСП\broadcast\lab4_client\lab4_client\lab4_client.cpp(150,47): warning C4267: аргумент: преобразование из "size_t" в "int"; возможна потеря данных
+  lab4_client.vcxproj -> C:\Users\37529\Desktop\labs 3k 1s\ПСП\broadcast\lab4_client\x64\Debug\lab4_client.exe

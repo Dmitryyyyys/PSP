@@ -1,0 +1,9 @@
+﻿  lab4_client.cpp
+C:\Users\37529\Desktop\labs 3k 1s\ПСП\broadcast\lab4_client\lab4_client\lab4_client.cpp(102,47): warning C4267: аргумент: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\37529\Desktop\labs 3k 1s\ПСП\broadcast\lab4_client\lab4_client\lab4_client.cpp(150,47): warning C4267: аргумент: преобразование из "size_t" в "int"; возможна потеря данных
+  Создание кода
+  110 of 114 functions (96.5%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    1 functions had inline decision re-evaluated but remain unchanged
+  Создание кода завершено
+  lab4_client.vcxproj -> C:\Users\37529\Desktop\labs 3k 1s\ПСП\broadcast\lab4_client\x64\Release\lab4_client.exe
