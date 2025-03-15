@@ -1,0 +1,81 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\37529\\Desktop\\labs 3k 1s\\\u041F\u0421\u041F\\udp\\ClentU\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D5EB1BA7-49EC-4FD7-BA82-F65DCD29D964}|ClentU\\ClentU.vcxproj|C:\\Users\\37529\\Desktop\\labs 3k 1s\\\u041F\u0421\u041F\\udp\\ClentU\\ClentU\\ClentU.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{D5EB1BA7-49EC-4FD7-BA82-F65DCD29D964}|ClentU\\ClentU.vcxproj|solutionrelative:ClentU\\ClentU.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 11,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:13050943:0:{bf84ea66-d821-4dba-b1b1-2777d8574775}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1997951853:0:{bf84ea66-d821-4dba-b1b1-2777d8574775}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:2031669256:0:{bf84ea66-d821-4dba-b1b1-2777d8574775}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:253279231:0:{bf84ea66-d821-4dba-b1b1-2777d8574775}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:2088629290:0:{bf84ea66-d821-4dba-b1b1-2777d8574775}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:311361673:0:{bf84ea66-d821-4dba-b1b1-2777d8574775}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1553926390:0:{bf84ea66-d821-4dba-b1b1-2777d8574775}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:430974520:0:{bf84ea66-d821-4dba-b1b1-2777d8574775}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1651208718:0:{bf84ea66-d821-4dba-b1b1-2777d8574775}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:71951129:0:{bf84ea66-d821-4dba-b1b1-2777d8574775}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ClentU.cpp",
+              "DocumentMoniker": "C:\\Users\\37529\\Desktop\\labs 3k 1s\\\u041F\u0421\u041F\\udp\\ClentU\\ClentU\\ClentU.cpp",
+              "RelativeDocumentMoniker": "ClentU\\ClentU.cpp",
+              "ToolTip": "C:\\Users\\37529\\Desktop\\labs 3k 1s\\\u041F\u0421\u041F\\udp\\ClentU\\ClentU\\ClentU.cpp",
+              "RelativeToolTip": "ClentU\\ClentU.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAHMAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-11-11T18:37:32.562Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,3 @@
+﻿  ClentU.cpp
+C:\Users\37529\Desktop\labs 3k 1s\ПСП\udp\ClentU\ClentU\ClentU.cpp(96,65): warning C4267: аргумент: преобразование из "size_t" в "int"; возможна потеря данных
+  ClentU.vcxproj -> C:\Users\37529\Desktop\labs 3k 1s\ПСП\udp\ClentU\x64\Debug\ClentU.exe
