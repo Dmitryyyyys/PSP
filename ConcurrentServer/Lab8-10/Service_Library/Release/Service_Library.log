@@ -1,0 +1,12 @@
+﻿  pch.cpp
+  dllmain.cpp
+C:\labs\РИС\ConcurrentServer\Lab8-10\Service_Library\RandServer.h(31,16): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+  (компиляция исходного файла "/dllmain.cpp")
+  
+     Создается библиотека C:\labs\РИС\ConcurrentServer\Lab8-10\SH_Laba_8_10\Release\Service_Library.lib и объект C:\labs\РИС\ConcurrentServer\Lab8-10\SH_Laba_8_10\Release\Service_Library.exp
+  Создание кода
+  145 of 150 functions (96.7%) were compiled, the rest were copied from previous compilation.
+    2 functions were new in current compilation
+    1 functions had inline decision re-evaluated but remain unchanged
+  Создание кода завершено
+  Service_Library.vcxproj -> C:\labs\РИС\ConcurrentServer\Lab8-10\SH_Laba_8_10\Release\Service_Library.dll

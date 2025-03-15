@@ -1,0 +1,7 @@
+﻿  RConsole.cpp
+C:\labs\ПСП\ConcurrentServer\Lab8-10\RemoteConsole\RConsole.cpp(74,59): warning C4267: аргумент: преобразование из "size_t" в "DWORD"; возможна потеря данных
+  Создание кода
+  Previous IPDB not found, fall back to full compilation.
+  All 191 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Создание кода завершено
+  RemoteConsole.vcxproj -> C:\labs\ПСП\ConcurrentServer\Lab8-10\SH_Laba_8_10\x64\Release\RConsole.exe

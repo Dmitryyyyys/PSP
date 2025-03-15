@@ -1,0 +1,100 @@
+﻿  dllmain.cpp
+C:\labs\ПСП\ConcurrentServer\Lab8-10\Service_Library\Global.h(107,20): warning C4312: приведение типов: преобразование из "DWORD" в "Contact *" большего размера
+  (компиляция исходного файла "/dllmain.cpp")
+  
+C:\labs\ПСП\ConcurrentServer\Lab8-10\Service_Library\Global.h(123,20): warning C4312: приведение типов: преобразование из "DWORD" в "Contact *" большего размера
+  (компиляция исходного файла "/dllmain.cpp")
+  
+C:\labs\ПСП\ConcurrentServer\Lab8-10\Service_Library\EchoServer.h(13,55): warning C4311: приведение типов: усечение указателя из "Contact *" в "DWORD"
+  (компиляция исходного файла "/dllmain.cpp")
+  
+C:\labs\ПСП\ConcurrentServer\Lab8-10\Service_Library\EchoServer.h(13,55): warning C4302: приведение типов: усечение из "Contact *" к "DWORD"
+  (компиляция исходного файла "/dllmain.cpp")
+  
+C:\labs\ПСП\ConcurrentServer\Lab8-10\Service_Library\EchoServer.h(13,3): error C2664: "DWORD QueueUserAPC(PAPCFUNC,HANDLE,ULONG_PTR)": невозможно преобразовать аргумент 1 из "void (__cdecl *)(DWORD)" в "PAPCFUNC"
+  (компиляция исходного файла "/dllmain.cpp")
+      C:\labs\ПСП\ConcurrentServer\Lab8-10\Service_Library\EchoServer.h(13,16):
+      Конечному типу не соответствует ни одной функции с данным именем в области видимости
+      C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\processthreadsapi.h(94,1):
+       см. объявление "QueueUserAPC"
+      C:\labs\ПСП\ConcurrentServer\Lab8-10\Service_Library\EchoServer.h(13,3):
+      при попытке сопоставить список аргументов "(overloaded-function, HANDLE, DWORD)"
+  
+C:\labs\ПСП\ConcurrentServer\Lab8-10\Service_Library\EchoServer.h(33,57): warning C4311: приведение типов: усечение указателя из "Contact *" в "DWORD"
+  (компиляция исходного файла "/dllmain.cpp")
+  
+C:\labs\ПСП\ConcurrentServer\Lab8-10\Service_Library\EchoServer.h(33,57): warning C4302: приведение типов: усечение из "Contact *" к "DWORD"
+  (компиляция исходного файла "/dllmain.cpp")
+  
+C:\labs\ПСП\ConcurrentServer\Lab8-10\Service_Library\EchoServer.h(33,4): error C2664: "DWORD QueueUserAPC(PAPCFUNC,HANDLE,ULONG_PTR)": невозможно преобразовать аргумент 1 из "void (__cdecl *)(DWORD)" в "PAPCFUNC"
+  (компиляция исходного файла "/dllmain.cpp")
+      C:\labs\ПСП\ConcurrentServer\Lab8-10\Service_Library\EchoServer.h(33,17):
+      Конечному типу не соответствует ни одной функции с данным именем в области видимости
+      C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\processthreadsapi.h(94,1):
+       см. объявление "QueueUserAPC"
+      C:\labs\ПСП\ConcurrentServer\Lab8-10\Service_Library\EchoServer.h(33,4):
+      при попытке сопоставить список аргументов "(overloaded-function, HANDLE, DWORD)"
+  
+C:\labs\ПСП\ConcurrentServer\Lab8-10\Service_Library\TimeServer.h(11,54): warning C4311: приведение типов: усечение указателя из "Contact *" в "DWORD"
+  (компиляция исходного файла "/dllmain.cpp")
+  
+C:\labs\ПСП\ConcurrentServer\Lab8-10\Service_Library\TimeServer.h(11,54): warning C4302: приведение типов: усечение из "Contact *" к "DWORD"
+  (компиляция исходного файла "/dllmain.cpp")
+  
+C:\labs\ПСП\ConcurrentServer\Lab8-10\Service_Library\TimeServer.h(11,2): error C2664: "DWORD QueueUserAPC(PAPCFUNC,HANDLE,ULONG_PTR)": невозможно преобразовать аргумент 1 из "void (__cdecl *)(DWORD)" в "PAPCFUNC"
+  (компиляция исходного файла "/dllmain.cpp")
+      C:\labs\ПСП\ConcurrentServer\Lab8-10\Service_Library\TimeServer.h(11,15):
+      Конечному типу не соответствует ни одной функции с данным именем в области видимости
+      C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\processthreadsapi.h(94,1):
+       см. объявление "QueueUserAPC"
+      C:\labs\ПСП\ConcurrentServer\Lab8-10\Service_Library\TimeServer.h(11,2):
+      при попытке сопоставить список аргументов "(overloaded-function, HANDLE, DWORD)"
+  
+C:\labs\ПСП\ConcurrentServer\Lab8-10\Service_Library\TimeServer.h(45,57): warning C4311: приведение типов: усечение указателя из "Contact *" в "DWORD"
+  (компиляция исходного файла "/dllmain.cpp")
+  
+C:\labs\ПСП\ConcurrentServer\Lab8-10\Service_Library\TimeServer.h(45,57): warning C4302: приведение типов: усечение из "Contact *" к "DWORD"
+  (компиляция исходного файла "/dllmain.cpp")
+  
+C:\labs\ПСП\ConcurrentServer\Lab8-10\Service_Library\TimeServer.h(45,4): error C2664: "DWORD QueueUserAPC(PAPCFUNC,HANDLE,ULONG_PTR)": невозможно преобразовать аргумент 1 из "void (__cdecl *)(DWORD)" в "PAPCFUNC"
+  (компиляция исходного файла "/dllmain.cpp")
+      C:\labs\ПСП\ConcurrentServer\Lab8-10\Service_Library\TimeServer.h(45,17):
+      Конечному типу не соответствует ни одной функции с данным именем в области видимости
+      C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\processthreadsapi.h(94,1):
+       см. объявление "QueueUserAPC"
+      C:\labs\ПСП\ConcurrentServer\Lab8-10\Service_Library\TimeServer.h(45,4):
+      при попытке сопоставить список аргументов "(overloaded-function, HANDLE, DWORD)"
+  
+C:\labs\ПСП\ConcurrentServer\Lab8-10\Service_Library\RandServer.h(10,54): warning C4311: приведение типов: усечение указателя из "Contact *" в "DWORD"
+  (компиляция исходного файла "/dllmain.cpp")
+  
+C:\labs\ПСП\ConcurrentServer\Lab8-10\Service_Library\RandServer.h(10,54): warning C4302: приведение типов: усечение из "Contact *" к "DWORD"
+  (компиляция исходного файла "/dllmain.cpp")
+  
+C:\labs\ПСП\ConcurrentServer\Lab8-10\Service_Library\RandServer.h(10,2): error C2664: "DWORD QueueUserAPC(PAPCFUNC,HANDLE,ULONG_PTR)": невозможно преобразовать аргумент 1 из "void (__cdecl *)(DWORD)" в "PAPCFUNC"
+  (компиляция исходного файла "/dllmain.cpp")
+      C:\labs\ПСП\ConcurrentServer\Lab8-10\Service_Library\RandServer.h(10,15):
+      Конечному типу не соответствует ни одной функции с данным именем в области видимости
+      C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\processthreadsapi.h(94,1):
+       см. объявление "QueueUserAPC"
+      C:\labs\ПСП\ConcurrentServer\Lab8-10\Service_Library\RandServer.h(10,2):
+      при попытке сопоставить список аргументов "(overloaded-function, HANDLE, DWORD)"
+  
+C:\labs\ПСП\ConcurrentServer\Lab8-10\Service_Library\RandServer.h(31,16): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+  (компиляция исходного файла "/dllmain.cpp")
+  
+C:\labs\ПСП\ConcurrentServer\Lab8-10\Service_Library\RandServer.h(46,57): warning C4311: приведение типов: усечение указателя из "Contact *" в "DWORD"
+  (компиляция исходного файла "/dllmain.cpp")
+  
+C:\labs\ПСП\ConcurrentServer\Lab8-10\Service_Library\RandServer.h(46,57): warning C4302: приведение типов: усечение из "Contact *" к "DWORD"
+  (компиляция исходного файла "/dllmain.cpp")
+  
+C:\labs\ПСП\ConcurrentServer\Lab8-10\Service_Library\RandServer.h(46,4): error C2664: "DWORD QueueUserAPC(PAPCFUNC,HANDLE,ULONG_PTR)": невозможно преобразовать аргумент 1 из "void (__cdecl *)(DWORD)" в "PAPCFUNC"
+  (компиляция исходного файла "/dllmain.cpp")
+      C:\labs\ПСП\ConcurrentServer\Lab8-10\Service_Library\RandServer.h(46,17):
+      Конечному типу не соответствует ни одной функции с данным именем в области видимости
+      C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\processthreadsapi.h(94,1):
+       см. объявление "QueueUserAPC"
+      C:\labs\ПСП\ConcurrentServer\Lab8-10\Service_Library\RandServer.h(46,4):
+      при попытке сопоставить список аргументов "(overloaded-function, HANDLE, DWORD)"
+  

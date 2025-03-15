@@ -1,0 +1,112 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\labs\\\u0420\u0418\u0421\\ConcurrentServer\\Lab8-10\\SH_Laba_8_10\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F71677BA-9948-4D23-AC0F-0BC3D7131C76}|..\\ConcurrentServer\\ConcurrentServer.vcxproj|C:\\labs\\\u0420\u0418\u0421\\ConcurrentServer\\Lab8-10\\ConcurrentServer\\ConcurrentServer.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CFC24AC5-7A79-444C-8940-F48D560286AC}|..\\Client\\Client.vcxproj|C:\\labs\\\u0420\u0418\u0421\\ConcurrentServer\\Lab8-10\\Client\\Client.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{61A78126-919D-4CF1-B51F-5EBBC52E0F21}|..\\RemoteConsole\\RemoteConsole.vcxproj|C:\\labs\\\u0420\u0418\u0421\\ConcurrentServer\\Lab8-10\\RemoteConsole\\RConsole.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 11,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:13050943:0:{bf84ea66-d821-4dba-b1b1-2777d8574775}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1997951853:0:{bf84ea66-d821-4dba-b1b1-2777d8574775}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:2031669256:0:{bf84ea66-d821-4dba-b1b1-2777d8574775}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:253279231:0:{bf84ea66-d821-4dba-b1b1-2777d8574775}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:2088629290:0:{bf84ea66-d821-4dba-b1b1-2777d8574775}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:311361673:0:{bf84ea66-d821-4dba-b1b1-2777d8574775}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1553926390:0:{bf84ea66-d821-4dba-b1b1-2777d8574775}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:430974520:0:{bf84ea66-d821-4dba-b1b1-2777d8574775}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1651208718:0:{bf84ea66-d821-4dba-b1b1-2777d8574775}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:71951129:0:{bf84ea66-d821-4dba-b1b1-2777d8574775}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ConcurrentServer.cpp",
+              "DocumentMoniker": "C:\\labs\\\u0420\u0418\u0421\\ConcurrentServer\\Lab8-10\\ConcurrentServer\\ConcurrentServer.cpp",
+              "RelativeDocumentMoniker": "..\\ConcurrentServer\\ConcurrentServer.cpp",
+              "ToolTip": "C:\\labs\\\u0420\u0418\u0421\\ConcurrentServer\\Lab8-10\\ConcurrentServer\\ConcurrentServer.cpp",
+              "RelativeToolTip": "..\\ConcurrentServer\\ConcurrentServer.cpp",
+              "ViewState": "AgIAAFcAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-02-28T20:45:37.804Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Client.cpp",
+              "DocumentMoniker": "C:\\labs\\\u0420\u0418\u0421\\ConcurrentServer\\Lab8-10\\Client\\Client.cpp",
+              "RelativeDocumentMoniker": "..\\Client\\Client.cpp",
+              "ToolTip": "C:\\labs\\\u0420\u0418\u0421\\ConcurrentServer\\Lab8-10\\Client\\Client.cpp",
+              "RelativeToolTip": "..\\Client\\Client.cpp",
+              "ViewState": "AgIAAHIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-02-28T20:44:55.978Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "RConsole.cpp",
+              "DocumentMoniker": "C:\\labs\\\u0420\u0418\u0421\\ConcurrentServer\\Lab8-10\\RemoteConsole\\RConsole.cpp",
+              "RelativeDocumentMoniker": "..\\RemoteConsole\\RConsole.cpp",
+              "ToolTip": "C:\\labs\\\u0420\u0418\u0421\\ConcurrentServer\\Lab8-10\\RemoteConsole\\RConsole.cpp",
+              "RelativeToolTip": "..\\RemoteConsole\\RConsole.cpp",
+              "ViewState": "AgIAADAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-02-28T20:44:17.731Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

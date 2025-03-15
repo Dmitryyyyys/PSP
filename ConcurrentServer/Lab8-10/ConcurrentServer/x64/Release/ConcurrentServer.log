@@ -1,0 +1,11 @@
+﻿  ConcurrentServer.cpp
+C:\labs\ПСП\ConcurrentServer\Lab8-10\ConcurrentServer\Global.h(143,20): warning C4312: приведение типов: преобразование из "DWORD" в "Contact *" большего размера
+  (компиляция исходного файла "ConcurrentServer.cpp")
+  
+C:\labs\ПСП\ConcurrentServer\Lab8-10\ConcurrentServer\Global.h(159,20): warning C4312: приведение типов: преобразование из "DWORD" в "Contact *" большего размера
+  (компиляция исходного файла "ConcurrentServer.cpp")
+  
+C:\labs\ПСП\ConcurrentServer\Lab8-10\ConcurrentServer\ResponseServer.h(47,61): warning C4267: аргумент: преобразование из "size_t" в "int"; возможна потеря данных
+  (компиляция исходного файла "ConcurrentServer.cpp")
+  
+LINK : fatal error LNK1181: не удается открыть входной файл "C:\labs\ПСП\ConcurrentServer\Lab8-10\SH_Laba_8_10\x64\Release\Service_Library.lib"
